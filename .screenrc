@@ -1,0 +1,6 @@
+hardstatus alwayslastline "%`%-w%{=b bw}%n %t%{-}%+w"
+startup_message off
+autodetach on
+defscrollback 10240
+
+shell -${SHELL}
